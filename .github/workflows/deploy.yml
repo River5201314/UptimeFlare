@@ -22,7 +22,7 @@ jobs:
           cache: 'npm'
 
       # Automatically get an account id via the API Token
-      # if secrets.CLOUDFLARE_ACCOUNT_ID is not set.
+      # if secrets.CLOUDFLARE_ACCOUNT_ID is not set
       - name: Fetch Account ID
         id: fetch_account_id
         run: |
