@@ -1,11 +1,10 @@
 const pageConfig = {
     // Title for your status page
-    title: "yz's Status Page",
+    title: "网站状态",
     // Links shown at the header of your status page, could set `highlight` to `true`
     links: [
-        { link: 'https://github.com/yz0812', label: 'GitHub' },
-        { link: 'https://yz0812.github.io/', label: 'Blog' },
-        { link: '1477817404@qq.com', label: 'Email Me', highlight: true },
+        { link: 'https://github.com/yz0812', label: '项目作者' },
+        { link: '1477817404@qq.com', label: '邮件', highlight: true },
     ],
 }
 
