@@ -5,7 +5,7 @@ const pageConfig = {
     links: [
         { link: 'https://github.com/yz0812', label: 'GitHub' },
         { link: 'https://yz0812.github.io/', label: 'Blog' },
-        { link: 'mailto:yz_0812@outlook.com', label: 'Email Me', highlight: true },
+        { link: '1477817404@qq.com', label: 'Email Me', highlight: true },
     ],
 }
 
@@ -24,11 +24,11 @@ const workerConfig = {
             // http请求方法
             method: 'GET',
             // 目标 "是一个有效的 URL
-            target: 'https://yz0812.github.io',
+            target: 'https://osmanli007-openlist.hf.space',
             // [可选] `tooltip` 仅用于状态页面,以显示工具提示
             tooltip: '我的博客',
             // [可选] `statusPageLink` 跳转路径
-            statusPageLink: 'https://yz0812.github.io',
+            statusPageLink: 'https://osmanli007-openlist.hf.space',
             // [OPTIONAL] `expectedCodes` 成功状态值 默认是200
             expectedCodes: [200],
             // [OPTIONAL] `timeout` 超时时间
